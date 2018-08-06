@@ -1,0 +1,6 @@
+c:\users\nexwave\documents\visual studio 2015\Projects\Day3Examples\LinqExample\bin\Debug\LinqExample.exe.config
+c:\users\nexwave\documents\visual studio 2015\Projects\Day3Examples\LinqExample\bin\Debug\LinqExample.exe
+c:\users\nexwave\documents\visual studio 2015\Projects\Day3Examples\LinqExample\bin\Debug\LinqExample.pdb
+c:\users\nexwave\documents\visual studio 2015\Projects\Day3Examples\LinqExample\obj\Debug\LinqExample.csprojResolveAssemblyReference.cache
+c:\users\nexwave\documents\visual studio 2015\Projects\Day3Examples\LinqExample\obj\Debug\LinqExample.exe
+c:\users\nexwave\documents\visual studio 2015\Projects\Day3Examples\LinqExample\obj\Debug\LinqExample.pdb

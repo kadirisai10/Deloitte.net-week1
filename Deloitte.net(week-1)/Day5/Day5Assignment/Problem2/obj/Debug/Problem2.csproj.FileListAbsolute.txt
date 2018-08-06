@@ -1,0 +1,10 @@
+C:\Users\nexwave\documents\visual studio 2015\Projects\Day5Assignment\Problem2\bin\Debug\Problem2.exe.config
+C:\Users\nexwave\documents\visual studio 2015\Projects\Day5Assignment\Problem2\bin\Debug\Problem2.exe
+C:\Users\nexwave\documents\visual studio 2015\Projects\Day5Assignment\Problem2\bin\Debug\Problem2.pdb
+C:\Users\nexwave\documents\visual studio 2015\Projects\Day5Assignment\Problem2\bin\Debug\EntityFramework.dll
+C:\Users\nexwave\documents\visual studio 2015\Projects\Day5Assignment\Problem2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nexwave\documents\visual studio 2015\Projects\Day5Assignment\Problem2\bin\Debug\EntityFramework.xml
+C:\Users\nexwave\documents\visual studio 2015\Projects\Day5Assignment\Problem2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nexwave\documents\visual studio 2015\Projects\Day5Assignment\Problem2\obj\Debug\Problem2.csprojResolveAssemblyReference.cache
+C:\Users\nexwave\documents\visual studio 2015\Projects\Day5Assignment\Problem2\obj\Debug\Problem2.exe
+C:\Users\nexwave\documents\visual studio 2015\Projects\Day5Assignment\Problem2\obj\Debug\Problem2.pdb

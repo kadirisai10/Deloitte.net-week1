@@ -1,0 +1,11 @@
+c:\users\nexwave\documents\visual studio 2015\Projects\Day5Examples\DBFirstExample\bin\Debug\DBFirstExample.exe.config
+c:\users\nexwave\documents\visual studio 2015\Projects\Day5Examples\DBFirstExample\bin\Debug\DBFirstExample.exe
+c:\users\nexwave\documents\visual studio 2015\Projects\Day5Examples\DBFirstExample\bin\Debug\DBFirstExample.pdb
+c:\users\nexwave\documents\visual studio 2015\Projects\Day5Examples\DBFirstExample\obj\Debug\DBFirstExample.csprojResolveAssemblyReference.cache
+c:\users\nexwave\documents\visual studio 2015\Projects\Day5Examples\DBFirstExample\obj\Debug\DBFirstExample.Form1.resources
+c:\users\nexwave\documents\visual studio 2015\Projects\Day5Examples\DBFirstExample\obj\Debug\DBFirstExample.Properties.Resources.resources
+c:\users\nexwave\documents\visual studio 2015\Projects\Day5Examples\DBFirstExample\obj\Debug\DBFirstExample.csproj.GenerateResource.Cache
+c:\users\nexwave\documents\visual studio 2015\Projects\Day5Examples\DBFirstExample\obj\Debug\DBFirstExample.exe
+c:\users\nexwave\documents\visual studio 2015\Projects\Day5Examples\DBFirstExample\obj\Debug\DBFirstExample.pdb
+c:\users\nexwave\documents\visual studio 2015\Projects\Day5Examples\DBFirstExample\bin\Debug\EntityFramework.dll
+c:\users\nexwave\documents\visual studio 2015\Projects\Day5Examples\DBFirstExample\bin\Debug\EntityFramework.xml

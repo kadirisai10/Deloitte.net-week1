@@ -1,0 +1,6 @@
+c:\users\nexwave\documents\visual studio 2015\Projects\Day1Examples\20NewFeatures\bin\Debug\20NewFeatures.exe.config
+c:\users\nexwave\documents\visual studio 2015\Projects\Day1Examples\20NewFeatures\obj\Debug\20NewFeatures.csprojResolveAssemblyReference.cache
+c:\users\nexwave\documents\visual studio 2015\Projects\Day1Examples\20NewFeatures\bin\Debug\20NewFeatures.exe
+c:\users\nexwave\documents\visual studio 2015\Projects\Day1Examples\20NewFeatures\bin\Debug\20NewFeatures.pdb
+c:\users\nexwave\documents\visual studio 2015\Projects\Day1Examples\20NewFeatures\obj\Debug\20NewFeatures.exe
+c:\users\nexwave\documents\visual studio 2015\Projects\Day1Examples\20NewFeatures\obj\Debug\20NewFeatures.pdb

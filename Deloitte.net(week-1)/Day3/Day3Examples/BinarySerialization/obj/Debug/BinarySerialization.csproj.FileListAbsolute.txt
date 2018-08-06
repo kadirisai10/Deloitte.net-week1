@@ -1,0 +1,6 @@
+C:\Users\nexwave\documents\visual studio 2015\Projects\Day3Examples\BinarySerialization\bin\Debug\BinarySerialization.exe.config
+C:\Users\nexwave\documents\visual studio 2015\Projects\Day3Examples\BinarySerialization\bin\Debug\BinarySerialization.exe
+C:\Users\nexwave\documents\visual studio 2015\Projects\Day3Examples\BinarySerialization\bin\Debug\BinarySerialization.pdb
+C:\Users\nexwave\documents\visual studio 2015\Projects\Day3Examples\BinarySerialization\obj\Debug\BinarySerialization.csprojResolveAssemblyReference.cache
+C:\Users\nexwave\documents\visual studio 2015\Projects\Day3Examples\BinarySerialization\obj\Debug\BinarySerialization.exe
+C:\Users\nexwave\documents\visual studio 2015\Projects\Day3Examples\BinarySerialization\obj\Debug\BinarySerialization.pdb

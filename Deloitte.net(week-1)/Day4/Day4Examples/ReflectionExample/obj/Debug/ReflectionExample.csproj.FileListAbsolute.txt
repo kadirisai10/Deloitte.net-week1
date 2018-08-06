@@ -1,0 +1,8 @@
+c:\users\nexwave\documents\visual studio 2015\Projects\Day4Examples\ReflectionExample\bin\Debug\ReflectionExample.exe.config
+c:\users\nexwave\documents\visual studio 2015\Projects\Day4Examples\ReflectionExample\bin\Debug\ReflectionExample.exe
+c:\users\nexwave\documents\visual studio 2015\Projects\Day4Examples\ReflectionExample\bin\Debug\ReflectionExample.pdb
+c:\users\nexwave\documents\visual studio 2015\Projects\Day4Examples\ReflectionExample\bin\Debug\EmployeeLibrary.dll
+c:\users\nexwave\documents\visual studio 2015\Projects\Day4Examples\ReflectionExample\bin\Debug\EmployeeLibrary.pdb
+c:\users\nexwave\documents\visual studio 2015\Projects\Day4Examples\ReflectionExample\obj\Debug\ReflectionExample.csprojResolveAssemblyReference.cache
+c:\users\nexwave\documents\visual studio 2015\Projects\Day4Examples\ReflectionExample\obj\Debug\ReflectionExample.exe
+c:\users\nexwave\documents\visual studio 2015\Projects\Day4Examples\ReflectionExample\obj\Debug\ReflectionExample.pdb

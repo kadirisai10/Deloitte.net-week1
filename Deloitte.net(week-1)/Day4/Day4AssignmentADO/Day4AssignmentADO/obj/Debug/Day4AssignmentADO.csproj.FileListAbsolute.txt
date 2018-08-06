@@ -1,0 +1,9 @@
+c:\users\nexwave\documents\visual studio 2015\Projects\Day4AssignmentADO\Day4AssignmentADO\bin\Debug\Day4AssignmentADO.exe.config
+c:\users\nexwave\documents\visual studio 2015\Projects\Day4AssignmentADO\Day4AssignmentADO\bin\Debug\Day4AssignmentADO.exe
+c:\users\nexwave\documents\visual studio 2015\Projects\Day4AssignmentADO\Day4AssignmentADO\bin\Debug\Day4AssignmentADO.pdb
+c:\users\nexwave\documents\visual studio 2015\Projects\Day4AssignmentADO\Day4AssignmentADO\obj\Debug\Day4AssignmentADO.csprojResolveAssemblyReference.cache
+c:\users\nexwave\documents\visual studio 2015\Projects\Day4AssignmentADO\Day4AssignmentADO\obj\Debug\Day4AssignmentADO.Form1.resources
+c:\users\nexwave\documents\visual studio 2015\Projects\Day4AssignmentADO\Day4AssignmentADO\obj\Debug\Day4AssignmentADO.Properties.Resources.resources
+c:\users\nexwave\documents\visual studio 2015\Projects\Day4AssignmentADO\Day4AssignmentADO\obj\Debug\Day4AssignmentADO.csproj.GenerateResource.Cache
+c:\users\nexwave\documents\visual studio 2015\Projects\Day4AssignmentADO\Day4AssignmentADO\obj\Debug\Day4AssignmentADO.exe
+c:\users\nexwave\documents\visual studio 2015\Projects\Day4AssignmentADO\Day4AssignmentADO\obj\Debug\Day4AssignmentADO.pdb

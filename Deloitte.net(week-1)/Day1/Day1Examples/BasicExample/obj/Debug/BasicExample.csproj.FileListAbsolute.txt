@@ -1,0 +1,6 @@
+c:\users\nexwave\documents\visual studio 2015\Projects\Day1Examples\BasicExample\bin\Debug\BasicExample.exe.config
+c:\users\nexwave\documents\visual studio 2015\Projects\Day1Examples\BasicExample\bin\Debug\BasicExample.exe
+c:\users\nexwave\documents\visual studio 2015\Projects\Day1Examples\BasicExample\bin\Debug\BasicExample.pdb
+c:\users\nexwave\documents\visual studio 2015\Projects\Day1Examples\BasicExample\obj\Debug\BasicExample.csprojResolveAssemblyReference.cache
+c:\users\nexwave\documents\visual studio 2015\Projects\Day1Examples\BasicExample\obj\Debug\BasicExample.exe
+c:\users\nexwave\documents\visual studio 2015\Projects\Day1Examples\BasicExample\obj\Debug\BasicExample.pdb

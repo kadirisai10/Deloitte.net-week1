@@ -1,0 +1,6 @@
+c:\users\nexwave\documents\visual studio 2015\Projects\Day1Assignment\Problem1\bin\Debug\Problem1.exe.config
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\Day1Assignment\Problem1\obj\Debug\Problem1.csprojResolveAssemblyReference.cache
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\Day1Assignment\Problem1\bin\Debug\Problem1.exe
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\Day1Assignment\Problem1\bin\Debug\Problem1.pdb
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\Day1Assignment\Problem1\obj\Debug\Problem1.exe
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\Day1Assignment\Problem1\obj\Debug\Problem1.pdb

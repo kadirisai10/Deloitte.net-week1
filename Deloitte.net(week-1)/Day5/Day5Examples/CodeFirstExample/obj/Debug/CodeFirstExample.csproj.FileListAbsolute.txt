@@ -1,0 +1,10 @@
+c:\users\nexwave\documents\visual studio 2015\Projects\Day5Examples\CodeFirstExample\bin\Debug\CodeFirstExample.exe.config
+c:\users\nexwave\documents\visual studio 2015\Projects\Day5Examples\CodeFirstExample\bin\Debug\CodeFirstExample.exe
+c:\users\nexwave\documents\visual studio 2015\Projects\Day5Examples\CodeFirstExample\bin\Debug\CodeFirstExample.pdb
+c:\users\nexwave\documents\visual studio 2015\Projects\Day5Examples\CodeFirstExample\bin\Debug\EntityFramework.dll
+c:\users\nexwave\documents\visual studio 2015\Projects\Day5Examples\CodeFirstExample\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\nexwave\documents\visual studio 2015\Projects\Day5Examples\CodeFirstExample\bin\Debug\EntityFramework.xml
+c:\users\nexwave\documents\visual studio 2015\Projects\Day5Examples\CodeFirstExample\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\nexwave\documents\visual studio 2015\Projects\Day5Examples\CodeFirstExample\obj\Debug\CodeFirstExample.csprojResolveAssemblyReference.cache
+c:\users\nexwave\documents\visual studio 2015\Projects\Day5Examples\CodeFirstExample\obj\Debug\CodeFirstExample.exe
+c:\users\nexwave\documents\visual studio 2015\Projects\Day5Examples\CodeFirstExample\obj\Debug\CodeFirstExample.pdb
